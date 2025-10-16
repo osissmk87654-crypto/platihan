@@ -4,7 +4,7 @@ font-family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah */
 color: #191970; /*warna teks utama (Biru Gelap) */
 }
 
-. kartu-profil {
+.kartu-profil. {
   width:300px;
   margin:50px auto; /* 50px jarak atas/bawah, atau menengahkan kiri/kanan */
   padding: 20px;
@@ -14,7 +14,7 @@ color: #191970; /*warna teks utama (Biru Gelap) */
   text-align: center; 
 }
 
-. kartu-profil img {
+.kartu-profil img. {
   width: 150px;
   border-radius: 50%; 
 }
